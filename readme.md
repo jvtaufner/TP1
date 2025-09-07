@@ -1,7 +1,7 @@
 # TP1: Biblioteca Digital de Artigos
 
 ## 1. Equipe
-- **Back-end:** Gustavo Rodrigues de Aquino
+- **Back-end:** Gustavo Rodrigues de Aquino e João Victor Taufner Pereira
 - **Front-end:** Maria Eduarda Rodrigues Pasquel
 
 ## 2. Detalhamento do Projeto
@@ -75,7 +75,7 @@ Deseja-se disponibilizar acesso de forma fácil aos artigos publicados em determ
 ## 10. Contatos
 
 Gustavo de Aquino | gst.aqn@gmail.com |
-
+João Victor Taufner Pereira | jvtaufner@gmail.com
 
 <!--
 
