@@ -2,6 +2,7 @@
 
 ## 1. Equipe
 - **Back-end:** Gustavo Rodrigues de Aquino
+- **Back-end:** João Victor Taufner Pereira
 - **Front-end:** Maria Eduarda Rodrigues Pasquel
 
 ## 2. Detalhamento do Projeto
@@ -75,6 +76,7 @@ Deseja-se disponibilizar acesso de forma fácil aos artigos publicados em determ
 ## 10. Contatos
 
 Gustavo de Aquino | gst.aqn@gmail.com |
+João Vitor Taufner | jvtaufner@gmail.com |
 
 
 <!--
